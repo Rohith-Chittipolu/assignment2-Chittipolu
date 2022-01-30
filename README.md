@@ -54,4 +54,23 @@ Below table contains details about sports.It contains Sport name, location and a
 
 >“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”    -*Albert Einstein
 
+---
+### Arbitrary-precision arithmetic addition
+
+>In computer science, arbitrary-precision arithmetic, also called bignum arithmetic, multiple-precision arithmetic, or sometimes infinite-precision arithmetic, indicates that calculations are performed on numbers whose digits of precision are limited only by the available memory of the host system. This contrasts with the faster fixed-precision arithmetic found in most arithmetic logic unit (ALU) hardware, which typically offers between 8 and 64 bits of precision.
+Source: <https://en.wikipedia.org/wiki/Arbitrary-precision_arithmetic>
+
+```
+int carry = 0;
+for (size_t i=0; i<max(a.size(),b.size()) || carry; ++i) {
+    if (i == a.size())
+        a.push_back (0);
+    a[i] += carry + (i < b.size() ? b[i] : 0);
+    carry = a[i] >= base;
+    if (carry)  a[i] -= base;
+}
+```
+Source: <https://cp-algorithms.com/algebra/big-integer.html>
+
+
 
