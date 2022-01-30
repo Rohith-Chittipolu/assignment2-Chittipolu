@@ -46,3 +46,12 @@ Below table contains details about sports.It contains Sport name, location and a
 |Soccer| LB nagar Soccer ground | $ 120 |
 |Badminton| RGI Court | $ 80 |
 |Cricket| Chennai stadium | $ 100  |
+
+---
+# Quotes
+
+>Be yourself; everyone else is already taken  -*Oscar Wilde
+
+>“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”    -*Albert Einstein
+
+
