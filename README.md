@@ -35,3 +35,14 @@ Bon appetit!.
     - Fanta
 
 **[Link to AboutMe](AboutMe.md)**
+
+---
+### Sports
+Below table contains details about sports.It contains Sport name, location and amount to be paid for equipment.<br>These are the  4 sports that I would recommend someone to try.
+
+|  Name | Location | Amount|
+|-------|----------|-------|
+|Volley Ball| Hyderabad stadium | $ 20 |
+|Soccer| LB nagar Soccer ground | $ 120 |
+|Badminton| RGI Court | $ 80 |
+|Cricket| Chennai stadium | $ 100  |
