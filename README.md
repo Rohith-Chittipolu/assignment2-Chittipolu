@@ -50,9 +50,9 @@ Below table contains details about sports.It contains Sport name, location and a
 ---
 # Quotes
 
->Be yourself; everyone else is already taken  -*Oscar Wilde
+>Be yourself; everyone else is already taken  _Oscar Wilde_
 
->“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”    -*Albert Einstein
+>“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”    _Albert Einstein_
 
 ---
 ### Arbitrary-precision arithmetic addition
